@@ -14,4 +14,4 @@
 * Proxy Support
 * 2FA available
 
-## 🔧 Working on updates
+## 🔧 Working on updates...
